@@ -7,7 +7,7 @@
 - 매일 꾸준히 학습하려는 노력을 하고있습니다.
 
 #### ✉️ Email
-##### rosee1234553@gamil.com
+##### - rosee1234553@gamil.com
 
 #### ⚒️ Skills
 
