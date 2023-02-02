@@ -42,7 +42,7 @@
 |PERIOD|TITLE|LINK|
 |---|---|---|
 |2022 2학기|알고리즘|<a href="https://hu-studyrecord.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-000000?style=flat-square&logo=Penpot&logoColor=white"/>|
-|2022 2학기|머신러닝||<a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-000000?style=flat-square&logo=Penpot&logoColor=white"/>|
+|2022 2학기|머신러닝|<a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-000000?style=flat-square&logo=Penpot&logoColor=white"/>|
 
 
 ### ⚒️ Tech Stack
