@@ -1,14 +1,14 @@
-#### 💙SNS list
+#### 💙 SNS list
 <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/></a> 
 
-#### 🪪Hello, I'm YouJeong
+#### 🪪 Hello, I'm YouJeong
 - 
 - 
 
-#### ✉️Email
+#### ✉️ Email
 ##### rosee1234553@gamil.com
 
-#### ⚒️Skills
+#### ⚒️ Skills
 
 #### Tools
 
