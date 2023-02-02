@@ -6,7 +6,7 @@
 - 
 
 ### Email
-<img src="https://img.shields.io/badge/D64A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>rosee1234553@gamil.com
+#### <img src="https://img.shields.io/badge/ -D64A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>rosee1234553@gamil.com
 
 ### Skills
 
