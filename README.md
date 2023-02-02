@@ -1,4 +1,4 @@
- <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="20211939@edu.hanbat.ac.kr/" target="_blank"><img src="https://img.shields.io/badge/Mail-D64A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 #### Hi I'm YouJeong 👋
 - 
