@@ -18,15 +18,20 @@
 #### 논문
 |PERIOD|TITLE|SUBJECT|
 |---|---|---|
+|~ 2022.08.13|한국전기전자학회|대화 내용기반 팀 프로젝트 활동 분석 알고리즘|
+|~ 2022.11.25|한국시뮬레이션학회|비대면 팀 프로젝트 평가 알고리즘|
 
 #### 대회
 |PERIOD|TITLE|SUBJECT|
 |---|---|---|
+|2022.|창의설계 경진대회|개발도상국 내 ~|
 
 #### 프로젝트
 |PERIOD|TITLE|SUBJECT|
 |---|---|---|
-|2022.12.01 ~ 2023.01.26|코너스톤|지역사회 내 외국인들을 위한 긴급재난안전문자 전송  |
+|2022.12.01 ~ 2023.01.26|sweg||
+|2022.12.01 ~ 2023.01.26|코너스톤|지역사회 내 외국인들을 위한 긴급재난안전문자 전송|
+
 
 ### ⚒️ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
