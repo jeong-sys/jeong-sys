@@ -1,9 +1,12 @@
- <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/rosee1234553@gmail.com-D64A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>
+### SNS list
+<a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/></a> 
 
-#### Hi I'm YouJeong 👋
+### Hi I'm YouJeong 👋
 - 
 - 
-- 
+
+### Email
+<img src="https://img.shields.io/badge/D64A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>rosee1234553@gamil.com
 
 ### Skills
 
