@@ -32,6 +32,18 @@
 |2022.12.01 ~ 2023.01.26|sweg||
 |2022.12.01 ~ 2023.01.26|코너스톤|지역사회 내 외국인들을 위한 긴급재난안전문자 전송|
 
+#### 학습동아리
+|PERIOD|TITLE|SUBJECT|
+|---|---|---|
+|2022 1학기|PC||
+|2022 2학기|PC||
+
+#### 전공 과목 정
+|PERIOD|TITLE|SUBJECT|
+|---|---|---|
+|2022 1학기|PC||
+|2022 2학기|PC||
+
 
 ### ⚒️ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
