@@ -1,6 +1,14 @@
-<div align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+# 블로그(1), 블로그(2), 메일, 인스타, 
   
-### Hi there 👋
+# Hi I'm YouJeong 👋
+- 
+- 
+- 
+
+# Skills
+
+# Tools
 
 <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
