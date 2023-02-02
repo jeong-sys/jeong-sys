@@ -18,7 +18,7 @@
 #### 💡 교내활동
 |PERIOD|TITLE|SUBJECT|
 |---|---|---|
-|2021.7 ~ |LAB|HANBAT UNIVERSITY, SYSAILAB|
+|2021.07 ~ |LAB|HANBAT UNIVERSITY, SYSAILAB|
 |2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
 
 #### 💡 논문
