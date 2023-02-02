@@ -1,6 +1,6 @@
  <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T-9cf?style=flat-square&logo=Blog&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/#000000?style=flat-square&logo=Android&logoColor=white"/>
 
 #### Hi I'm YouJeong 👋
 - 
