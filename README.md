@@ -6,7 +6,7 @@
 - 
 
 #### ✉️ Email
-##### rosee1234553@gamil.com
+##### - rosee1234553@gamil.com
 
 #### ⚒️ Skills
 
