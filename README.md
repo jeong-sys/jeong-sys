@@ -13,9 +13,8 @@
 ### ✉️ Email
   rosee1234553@gamil.com
 
-### ⚒️ Skills
-
-
+### ⚒️ Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sys&show_icons=true&theme=tokyonight)
