@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=200&section=header&text=Hello,%20I'm%20You%20Jeong👋&fontSize=40)
+<div align=center><h1>
+👋 Hello, I'm YouJeong 
+</h1></div>
+
 ### 💙 SNS list
 <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/> </a><a href="https://jeong-sys.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> </a><a href="https://blog.naver.com/rosee12345/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
 </a><a href="https://www.instagram.com/h_yyuj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
