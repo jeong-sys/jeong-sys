@@ -32,9 +32,9 @@
 |~ 2022.11.19|창의설계 온라인 경진대회|개발도상국 영세 농가의 소득증대를 위한 재고관리|동상|
 
 #### 💡 프로젝트
-|PERIOD|TITLE|SUBJECT|
+|PERIOD|TITLE|SUBJECT|AWARD|
 |---|---|---|
-|2022.05.16 ~ 2022.11.10|메타버스 콘텐츠 제작|2022 Sungoo Women Empowerment Global(SWEG)|
+|2022.05.16 ~ 2022.11.10|메타버스 콘텐츠 제작|2022 Sungoo Women Empowerment Global(SWEG)|Best Metaverse Space Creation|
 |2022.12.01 ~ 2023.01.26|코너스톤|지역사회 내 외국인들을 위한 긴급재난안전문자 전송|
 
 #### 💡 학습동아리
