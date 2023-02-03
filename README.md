@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,20&height=250&section=header&text=Hello%20I'm You Jeong&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=250&section=header&text=Hello,%20I'm%20You%20Jeong👋&fontSize=65)
 
 <div align=center><h1>
 👋 Hello, I'm You Jeong   
