@@ -41,8 +41,8 @@
 #### 💡 학습동아리
 |PERIOD|TITLE|SUBJECT|LINK|
 |---|---|---|---|
-|2022.03.02 ~ 2022.06.20|PC|Java Study|1|
-|2022.08.29 ~ 2022.12.16|PC|Algorithm Study|2|
+|2022.03.02 ~ 2022.06.20|PC|Java Study|<a href="https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942" target="_black">|
+|2022.08.29 ~ 2022.12.16|PC|Algorithm Study|https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942|
 |2023.01.01 ~ |BAS|문제풀이|3|
 
 #### 💡 전공 과목 정리 
