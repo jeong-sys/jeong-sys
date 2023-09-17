@@ -25,7 +25,7 @@
 |---|---|---|---|
 |~ 2022.08.13|한국전기전자학회|대화 내용기반 팀 프로젝트 활동 분석 알고리즘||
 |~ 2022.11.25|한국시뮬레이션학회|비대면 팀 프로젝트 평가 알고리즘|은상|
-
+|~ 2023.08.16|한국전기전자학회|인공지능을 활용한 효율적인 학습 콘텐츠 관리 시스템 방안||
 #### 💡 대회
 |PERIOD|TITLE|SUBJECT|PRIZE|
 |---|---|---|---|
@@ -46,6 +46,10 @@
 |2022.03.02 ~ 2022.06.20|PC|Java Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
 |2022.08.29 ~ 2022.12.16|PC|Algorithm Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
 |2023.01.01 ~ 2023.06.17|PC|네트워크 및 데이터통신|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+
+#### 💡 사제동행
+|PERIOD|TITLE|SUBJECT|LINK|
+|---|---|---|---|
 
 #### 💡 전공 과목 정리 
 |PERIOD|TITLE|LINK|
