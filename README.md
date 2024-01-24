@@ -41,6 +41,7 @@
 |2022.05.16 ~ 2022.11.10|메타버스 콘텐츠 제작|2022 Sungoo Women Empowerment Global(SWEG)|Best Metaverse Space Creation|
 |2022.12.01 ~ 2023.01.26|코너스톤|지역사회 내 외국인들을 위한 긴급재난안전문자 전송|
 |2023.03.02 ~ 2023.06.16|모바일 컴퓨팅|[너나들이] 여행 기록 어플리케이션| 
+|2023.11.20 ~ 2023.12.20|소프트웨어 설계|식물 일지 기록 웹|
 
 #### 💡 학습동아리
 |PERIOD|TITLE|SUBJECT|LINK|
@@ -48,10 +49,12 @@
 |2022.03.02 ~ 2022.06.20|PC|Java Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
 |2022.08.29 ~ 2022.12.16|PC|Algorithm Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
 |2023.01.01 ~ 2023.06.17|PC|네트워크 및 데이터통신|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+|2023.09.01 ~ 2023.12.20|PC|소프트웨어 설계||
 
 #### 💡 사제동행
 |PERIOD|TITLE|SUBJECT|LINK|
 |---|---|---|---|
+|2023.09.01 ~ 2023.12.20|컴공의 주춧돌이 될거에요||
 
 #### 💡 전공 과목 정리 
 |PERIOD|TITLE|LINK|
