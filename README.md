@@ -2,7 +2,7 @@
 👋 Hello, I'm YouJeong 
 </h1></div>
 
-<div align=center>
+***
 
 ### 🪪 **About Me** 🪪
 &nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터공학과에 재학중이며 백엔드 개발자를 희망하고 있습니다  
@@ -20,7 +20,6 @@
   rosee1234553@gamil.com
   
 ***
-</div>
 
 ### 🏫 Organization
 |PERIOD|Affliation|Position|
