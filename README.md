@@ -13,35 +13,8 @@
 <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84A8AD?style=flat-square&logo=Tistory&logoColor=white"/> </a><a href="https://jeong-sys.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> </a><a href="https://blog.naver.com/rosee12345/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  
 </a><a href="https://www.instagram.com/h_yyuj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
 
-
 ### ✉️ **Email** ✉️
   rosee1234553@gamil.com
-  
----
-
-### 🏫 Organization
-|PERIOD|Affliation|Position|
-|---|---|---|
-|2021.07 ~ |Department of Computer Science, SYSAILAB|Affiliated Student|
-|2021.03.02 ~ 2021.12.31|Department of Computer Science|A First-year Major|
-|2022.03.02 ~ 2022.11.30|Department of Computer Science|A Second-year Major|
-|2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
-
-### ✏️ Study Group
-
-|PERIOD|Group Name|SUBJECT|LINK|
-|---|---|---|---|
-|2022.03.02 ~ 2022.06.20|PC|Java Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
-|2022.08.29 ~ 2022.12.16|PC|Algorithm Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
-|2023.01.01 ~ 2023.06.17|PC|네트워크 및 데이터통신|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
-|2023.09.01 ~ 2023.12.20|PC|소프트웨어 설계|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
-
-|PERIOD|Group Name|
-|---|---|
-|2021.03.04 ~ 2021.06.21|ICIS-COM|
-|2023.09.01 ~ 2023.12.20|컴공의 주춧돌이 될거에요|
-
----
 
 ### 📃 Academic Conference
 |PERIOD|TITLE|SUBJECT|AWARD|
@@ -67,6 +40,27 @@
 |2023|R&E|X-ray를 활용한 식물 성장 기록 관찰 웹|
 |2023.11.20 ~ 2023.12.20|소프트웨어 설계|식물 일지 기록 웹|
 |2024.02.01 ~ 2024.12.20|Capstone|백엔드 서비스 프로바이더|
+
+### 🏫 Organization
+|PERIOD|Affliation|Position|
+|---|---|---|
+|2021.07 ~ |Department of Computer Science, SYSAILAB|Affiliated Student|
+|2021.03.02 ~ 2021.12.31|Department of Computer Science|A First-year Major|
+|2022.03.02 ~ 2022.11.30|Department of Computer Science|A Second-year Major|
+|2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
+
+### ✏️ Study Group
+|PERIOD|Group Name|SUBJECT|LINK|
+|---|---|---|---|
+|2022.03.02 ~ 2022.06.20|PC|Java Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+|2022.08.29 ~ 2022.12.16|PC|Algorithm Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+|2023.01.01 ~ 2023.06.17|PC|네트워크 및 데이터통신|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+|2023.09.01 ~ 2023.12.20|PC|소프트웨어 설계|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+
+|PERIOD|Group Name|
+|---|---|
+|2021.03.04 ~ 2021.06.21|ICIS-COM|
+|2023.09.01 ~ 2023.12.20|컴공의 주춧돌이 될거에요|
 
 ### 📖 STUDY
 |PERIOD|TITLE|LINK|
