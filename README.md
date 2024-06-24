@@ -15,6 +15,14 @@
 
 ### ✉️ **Email** ✉️
   rosee1234553@gamil.com
+  
+### 🏫 Organization
+|PERIOD|Affliation|Position|
+|---|---|---|
+|2021.07 ~ |Department of Computer Science, SYSAILAB|Affiliated Student|
+|2021.03.02 ~ 2021.12.31|Department of Computer Science|A First-year Major|
+|2022.03.02 ~ 2022.11.30|Department of Computer Science|A Second-year Major|
+|2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
 
 ### 📃 Academic Conference
 |PERIOD|TITLE|SUBJECT|AWARD|
@@ -40,14 +48,6 @@
 |2023|R&E|X-ray를 활용한 식물 성장 기록 관찰 웹|
 |2023.11.20 ~ 2023.12.20|소프트웨어 설계|식물 일지 기록 웹|
 |2024.02.01 ~ 2024.12.20|Capstone|백엔드 서비스 프로바이더|
-
-### 🏫 Organization
-|PERIOD|Affliation|Position|
-|---|---|---|
-|2021.07 ~ |Department of Computer Science, SYSAILAB|Affiliated Student|
-|2021.03.02 ~ 2021.12.31|Department of Computer Science|A First-year Major|
-|2022.03.02 ~ 2022.11.30|Department of Computer Science|A Second-year Major|
-|2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
 
 ### ✏️ Study Group
 |PERIOD|Group Name|SUBJECT|LINK|
