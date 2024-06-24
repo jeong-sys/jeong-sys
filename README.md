@@ -2,8 +2,6 @@
 👋 Hello, I'm YouJeong 
 </h1></div>
 
-***
-
 ### 🪪 **About Me** 🪪
 &nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터공학과에 재학중이며 백엔드 개발자를 희망하고 있습니다  
 &nbsp;&nbsp;&nbsp;&nbsp; 매일 꾸준히 학습하려는 노력을 하고있습니다
@@ -19,7 +17,7 @@
 ### ✉️ **Email** ✉️
   rosee1234553@gamil.com
   
-***
+---
 
 ### 🏫 Organization
 |PERIOD|Affliation|Position|
@@ -43,7 +41,7 @@
 |2021.03.04 ~ 2021.06.21|ICIS-COM|
 |2023.09.01 ~ 2023.12.20|컴공의 주춧돌이 될거에요|
 
-***
+---
 
 ### 📃 Academic Conference
 |PERIOD|TITLE|SUBJECT|AWARD|
@@ -70,7 +68,7 @@
 |2023.11.20 ~ 2023.12.20|소프트웨어 설계|식물 일지 기록 웹|
 |2024.02.01 ~ 2024.12.20|Capstone|백엔드 서비스 프로바이더|
 
-#### - STUDY -
+### 📖 STUDY
 |PERIOD|TITLE|LINK|
 |---|---|---|
 |2022.08.29 ~ 2022.12.16|알고리즘|<a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
