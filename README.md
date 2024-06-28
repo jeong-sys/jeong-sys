@@ -1,8 +1,8 @@
-<div align=center><h1>
+![image](https://github.com/jeong-sys/jeong-sys/assets/83804387/489f67dd-776b-4a00-9407-b6f629a55cfa)<div align=center><h1>
 👋 Hello, I'm YouJeong 
 </h1></div>
 
-### 🪪 **About Me** 🪪
+### 👧 **About Me** 👧
 &nbsp;&nbsp;&nbsp;&nbsp; 컴퓨터공학과에 재학중이며 백엔드 개발자를 희망하고 있습니다  
 &nbsp;&nbsp;&nbsp;&nbsp; 매일 꾸준히 학습하려는 노력을 하고있습니다
 
