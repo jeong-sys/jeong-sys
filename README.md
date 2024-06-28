@@ -1,4 +1,4 @@
-![image](https://github.com/jeong-sys/jeong-sys/assets/83804387/489f67dd-776b-4a00-9407-b6f629a55cfa)<div align=center><h1>
+<div align=center><h1>
 👋 Hello, I'm YouJeong 
 </h1></div>
 
