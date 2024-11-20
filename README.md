@@ -51,7 +51,7 @@
 | 2023.03.02 ~ 2023.06.16 | 모바일 컴퓨팅 | <a href="https://github.com/jeong-sys/Naderiyagi" target="_blank">[나들이야기] 여행 기록 어플리케이션</a> |  |
 | 2023 | R&E | <a href="https://github.com/jeong-sys/RnE_project" target="_blank">X-ray를 활용한 식물 성장 기록 관찰 웹</a> |  |
 | 2023.11.20 ~ 2023.12.20 | 소프트웨어 설계 | <a href="https://github.com/jeong-sys/SecretGrowth" target="_blank">식물 일지 기록 웹</a> |  |
-| 2024.02.01 ~ 2024.11.29 | Capstone | <a href="https://github.com/jeong-sys/come-capstone24-akdong_developer" target="_blank">백엔드 서비스 프로바이더</a> |  |
+| 2024.02.01 ~ 2024.11.29 | Capstone | <a href="https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer" target="_blank">백엔드 서비스 프로바이더</a> |  |
 
 ### ✏️ Study Group
 |PERIOD|Group Name|SUBJECT|LINK|
