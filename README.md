@@ -31,7 +31,7 @@
 |---|---|---|---|
 |2022.08.13|한국전기전자학회|<a href="https://github.com/jeong-sys/Teamate_Paper" target="_blank">대화 내용기반 팀 프로젝트 활동 분석 알고리즘</a>|참가|
 |2022.11.25|한국시뮬레이션학회|비대면 팀 프로젝트 평가 알고리즘|은상|
-|2023.08.16|한국전기전자학회|인공지능을 활용한 효율적인 학습 콘텐츠 관리 시스템 방안|참가|
+|2023.08.16|한국전기전자학회|<a href="https://github.com/jeong-sys/LCUsingAI_Paper" target="_blank">인공지능을 활용한 효율적인 학습 콘텐츠 관리 시스템 방안</a>|참가|
 |2024.05.04|춘계공동학술대회|이산사건 시스템 형식론 기반 컨테이너 분산 예측 방법론|참가|
 |2024.08.13|한국전기전자학회|효율적인 컨테이너 오케스트레이션 관리를 위한 컨테이너 이미지 최적화 기법|참가|
 |2024.11.22|한국정보기술학회|컨테이너 관리 시스템의 안정성 향상을 위한 자원 해제 자동화 및 오류 복구 기법|참가|
@@ -47,11 +47,11 @@
 |PERIOD|TITLE|SUBJECT|AWARD&LINK|
 |---|---|---|---|
 |2022.05.16 ~ 2022.11.10|메타버스 콘텐츠 제작|2022 Sungoo Women Empowerment Global(SWEG)|Best Metaverse Space Creation|
-|2022.12.01 ~ 2023.01.26|코너스톤|지역사회 내 외국인들을 위한 긴급재난안전문자 전송|
-|2023.03.02 ~ 2023.06.16|모바일 컴퓨팅|[나들이야기] 여행 기록 어플리케이션| 
-|2023|R&E|X-ray를 활용한 식물 성장 기록 관찰 웹|
-|2023.11.20 ~ 2023.12.20|소프트웨어 설계|식물 일지 기록 웹|
-|2024.02.01 ~ 2024.11.29|Capstone|백엔드 서비스 프로바이더|
+|2022.12.01 ~ 2023.01.26|코너스톤|<a href="https://github.com/jeong-sys/corner_stone" target"_black">지역사회 내 외국인들을 위한 긴급재난안전문자 전송</a>|
+|2023.03.02 ~ 2023.06.16|모바일 컴퓨팅|<a href="https://github.com/jeong-sys/Naderiyagi" target"_black">[나들이야기] 여행 기록 어플리케이션</a>| 
+|2023|R&E|<a href="https://github.com/jeong-sys/RnE_project" target"_black">X-ray를 활용한 식물 성장 기록 관찰 웹</a>|
+|2023.11.20 ~ 2023.12.20|소프트웨어 설계|<a href="https://github.com/jeong-sys/SecretGrowth" target"_black">식물 일지 기록 웹</a>|
+|2024.02.01 ~ 2024.11.29|Capstone|<a href="https://github.com/jeong-sys/come-capstone24-akdong_developer" target"_black">백엔드 서비스 프로바이더</a>|
 
 ### ✏️ Study Group
 |PERIOD|Group Name|SUBJECT|LINK|
@@ -67,10 +67,12 @@
 |2023.09.01 ~ 2023.12.20|컴공의 주춧돌이 될거에요|
 
 ### 📖 STUDY
-|PERIOD|TITLE|LINK|
+|TITLE|LINK|
 |---|---|---|
-|2022.08.29 ~ 2022.12.16|알고리즘|<a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
-|2022.08.29 ~ 2022.12.16|머신러닝|<a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
+|알고리즘|<a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
+|머신러닝|<a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
+|운영체제|<a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" target="_blank"></a>|
+|SPRING BOOT|<a href="https://hu-studyrecord.tistory.com/category/IntelliJ" target="_black></a>|
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sys&show_icons=true&theme=tokyonight)
