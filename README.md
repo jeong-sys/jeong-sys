@@ -19,10 +19,11 @@
 ### 🏫 Organization
 |PERIOD|Affliation|Position|
 |---|---|---|
-|2021.07 ~ |Department of Computer Science, SYSAILAB|Affiliated Student|
+|2021.07.01 ~ 2024.12.31|Department of Computer Science, SYSAILAB|Affiliated Student|
 |2021.03.02 ~ 2021.12.31|Department of Computer Science|A First-year Major|
 |2022.03.02 ~ 2022.11.30|Department of Computer Science|A Second-year Major|
 |2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
+|2024.03.08 ~ 2024.12.31|Sojunghan Bongsadan|Member|
 
 ### 📃 Academic Conference
 |PERIOD|TITLE|SUBJECT|AWARD|
@@ -31,6 +32,8 @@
 |2022.11.25|한국시뮬레이션학회|비대면 팀 프로젝트 평가 알고리즘|은상|
 |2023.08.16|한국전기전자학회|인공지능을 활용한 효율적인 학습 콘텐츠 관리 시스템 방안|참가|
 |2024.05.04|춘계공동학술대회|이산사건 시스템 형식론 기반 컨테이너 분산 예측 방법론|참가|
+|2024.08.13|한국전기전자학회|효율적인 컨테이너 오케스트레이션 관리를 위한 컨테이너 이미지 최적화 기법|참가|
+|2024.11.22|한국정보기술학회|컨테이너 관리 시스템의 안정성 향상을 위한 자원 해제 자동화 및 오류 복구 기법|참가|
 
 ### 🏆 CONTEST
 |PERIOD|TITLE|SUBJECT|PRIZE|
@@ -47,7 +50,7 @@
 |2023.03.02 ~ 2023.06.16|모바일 컴퓨팅|[나들이야기] 여행 기록 어플리케이션| 
 |2023|R&E|X-ray를 활용한 식물 성장 기록 관찰 웹|
 |2023.11.20 ~ 2023.12.20|소프트웨어 설계|식물 일지 기록 웹|
-|2024.02.01 ~ 2024.12.20|Capstone|백엔드 서비스 프로바이더|
+|2024.02.01 ~ 2024.11.29|Capstone|백엔드 서비스 프로바이더|
 
 ### ✏️ Study Group
 |PERIOD|Group Name|SUBJECT|LINK|
