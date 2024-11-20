@@ -29,9 +29,9 @@
 ### 📃 Academic Conference
 |PERIOD|TITLE|SUBJECT|AWARD|
 |---|---|---|---|
-|2022.08.13|한국전기전자학회|<a href="https://github.com/jeong-sys/Teamate_Paper" target="_blank">대화 내용기반 팀 프로젝트 활동 분석 알고리즘</a>|참가|
+|2022.08.13|한국전기전자학회|대화 내용기반 팀 프로젝트 활동 분석 알고리즘|참가|
 |2022.11.25|한국시뮬레이션학회|비대면 팀 프로젝트 평가 알고리즘|은상|
-|2023.08.16|한국전기전자학회|<a href="https://github.com/jeong-sys/LCUsingAI_Paper" target="_blank">인공지능을 활용한 효율적인 학습 콘텐츠 관리 시스템 방안</a>|참가|
+|2023.08.16|한국전기전자학회|인공지능을 활용한 효율적인 학습 콘텐츠 관리 시스템 방안|참가|
 |2024.05.04|춘계공동학술대회|이산사건 시스템 형식론 기반 컨테이너 분산 예측 방법론|참가|
 |2024.08.13|한국전기전자학회|효율적인 컨테이너 오케스트레이션 관리를 위한 컨테이너 이미지 최적화 기법|참가|
 |2024.11.22|한국정보기술학회|컨테이너 관리 시스템의 안정성 향상을 위한 자원 해제 자동화 및 오류 복구 기법|참가|
@@ -67,12 +67,12 @@
 |2023.09.01 ~ 2023.12.20|컴공의 주춧돌이 될거에요|
 
 ### 📖 STUDY
-|TITLE|LINK|
-|---|---|---|
-|알고리즘|<a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
-|머신러닝|<a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/>|
-|운영체제|<a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" target="_blank"></a>|
-|SPRING BOOT|<a href="https://hu-studyrecord.tistory.com/category/IntelliJ" target="_black"></a>|
+| TITLE | LINK |
+|---|---|
+| 알고리즘 | <a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
+| 머신러닝 | <a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
+| 운영체제 | <a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" target="_blank"><img src="https://img.shields.io/badge/OPERATING SYSTEM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
+| SPRING BOOT | <a href="https://hu-studyrecord.tistory.com/category/IntelliJ" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
 
 ### 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong-sys&show_icons=true&theme=tokyonight)
