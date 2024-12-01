@@ -42,24 +42,25 @@
 |2022.11.19|창의설계 온라인 경진대회|개발도상국 영세 농가의 소득증대를 위한 재고관리|동상|
 |2023.03.17|2023 모빌리티 리빙랩 아이디어 공모전|공유 모빌리티 충돌사고 모니터링|장려상|
 |2023.06.16|학습동아리 성과발표회|PC|우수상|
+|2024.11.29|제13회 정보기술대학 작품전시회|백엔드 서비스 프로바이더|동상|
 
 ### 🖥️ PROJECT
-| PERIOD | TITLE | SUBJECT | AWARD&LINK |
-|---|---|---|---|
-| 2022.05.16 ~ 2022.11.10 | 메타버스 콘텐츠 제작 | 2022 Sungoo Women Empowerment Global (SWEG) | Best Metaverse Space Creation |
-| 2022.12.01 ~ 2023.01.26 | 코너스톤 | <a href="https://github.com/jeong-sys/corner_stone" target="_blank">지역사회 내 외국인들을 위한 긴급재난안전문자 전송</a> |  |
-| 2023.03.02 ~ 2023.06.16 | 모바일 컴퓨팅 | <a href="https://github.com/jeong-sys/Naderiyagi" target="_blank">[나들이야기] 여행 기록 어플리케이션</a> |  |
-| 2023 | R&E | <a href="https://github.com/jeong-sys/RnE_project" target="_blank">X-ray를 활용한 식물 성장 기록 관찰 웹</a> |  |
-| 2023.11.20 ~ 2023.12.20 | 소프트웨어 설계 | <a href="https://github.com/jeong-sys/SecretGrowth" target="_blank">식물 일지 기록 웹</a> |  |
-| 2024.02.01 ~ 2024.11.29 | Capstone | <a href="https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer" target="_blank">백엔드 서비스 프로바이더</a> |  |
+| PERIOD | TITLE | SUBJECT |
+|---|---|---|
+| 2022.05.16 ~ 2022.11.10 | Meataverse content create | 2022 Sungoo Women Empowerment Global (SWEG) [Best Metaverse Space Creation] |
+| 2022.12.01 ~ 2023.01.26 | CornerStone | <a href="https://github.com/jeong-sys/corner_stone" target="_blank">지역사회 내 외국인들을 위한 긴급재난안전문자 전송</a> |
+| 2023.03.02 ~ 2023.06.16 | Mobile Computing | <a href="https://github.com/jeong-sys/Naderiyagi" target="_blank">[나들이야기] 여행 기록 어플리케이션</a> |
+| 2023.04.01 ~ 2023.11.30 | R&E | <a href="https://github.com/jeong-sys/RnE_project" target="_blank">X-ray를 활용한 식물 성장 기록 관찰 웹</a> |
+| 2023.11.20 ~ 2023.12.20 | 소프트웨어 설계 | <a href="https://github.com/jeong-sys/SecretGrowth" target="_blank">식물 일지 기록 웹</a> |
+| 2024.02.01 ~ 2024.11.29 | Capstone | <a href="https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer" target="_blank">백엔드 서비스 프로바이더: 경량형 컨테이너 서비스 개발</a> |
 
 ### ✏️ Study Group
 |PERIOD|Group Name|SUBJECT|LINK|
 |---|---|---|---|
 |2022.03.02 ~ 2022.06.20|PC|Java Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
 |2022.08.29 ~ 2022.12.16|PC|Algorithm Study|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
-|2023.01.01 ~ 2023.06.17|PC|네트워크 및 데이터통신|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
-|2023.09.01 ~ 2023.12.20|PC|소프트웨어 설계|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+|2023.01.01 ~ 2023.06.17|PC|Network&DataTransmission|[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
+|2023.09.01 ~ 2023.12.20|PC|Software |[Link](https://misty-moonflower-d58.notion.site/PC-7a203a81c4dd441892f843d318574942)|
 
 |PERIOD|Group Name|
 |---|---|
@@ -69,9 +70,9 @@
 ### 📖 STUDY
 | TITLE | LINK |
 |---|---|
-| 알고리즘 | <a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
-| 머신러닝 | <a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
-| 운영체제 | <a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" target="_blank"><img src="https://img.shields.io/badge/OPERATING SYSTEM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
+| Algorithm | <a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/ALGORITHM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
+| Machine Learning | <a href="https://hu-studyrecord.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D" target="_blank"><img src="https://img.shields.io/badge/MACHINE LEARNING-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
+| Operating System | <a href="https://hu-studyrecord.tistory.com/category/%EC%A0%84%EA%B3%B5%20%EA%B3%B5%EB%B6%80/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C" target="_blank"><img src="https://img.shields.io/badge/OPERATING SYSTEM-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
 | SPRING BOOT | <a href="https://hu-studyrecord.tistory.com/category/IntelliJ" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-FFFFFF?style=flat-square&logo=Penpot&logoColor=black"/></a> |
 
 ### 📊 GitHub Stats
