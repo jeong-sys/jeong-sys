@@ -20,8 +20,6 @@
 |PERIOD|Affliation|Position|
 |---|---|---|
 |2021.07.01 ~ 2024.12.31|Department of Computer Science, SYSAILAB|Affiliated Student|
-|2021.03.02 ~ 2021.12.31|Department of Computer Science|A First-year Representative|
-|2022.03.02 ~ 2022.11.30|Department of Computer Science|A Second-year Representative|
 |2022.12.01 ~ 2023.11.30|Student Council of Department of Computer Science|The Vice President|
 |2023.03.01 ~ 2024.10.15|WayoGayo Bongsa|Instructor|
 |2024.03.08 ~ 2024.12.31|Sojunghan Bongsadan|Member|
