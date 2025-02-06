@@ -53,6 +53,7 @@
 | 2023.04.01 ~ 2023.11.30 | R&E | <a href="https://github.com/jeong-sys/RnE_project" target="_blank">X-ray를 활용한 식물 성장 기록 관찰 웹</a> |
 | 2023.11.20 ~ 2023.12.20 | 소프트웨어 설계 | <a href="https://github.com/jeong-sys/SecretGrowth" target="_blank">식물 일지 기록 웹</a> |
 | 2024.02.01 ~ 2024.11.29 | Capstone | <a href="https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer" target="_blank">백엔드 서비스 프로바이더: 경량형 컨테이너 서비스 개발</a> |
+| 2024.12.10 ~ 2025.01.05 | 우리의 봄 | <a href="https://github.com/prgrms-be-devcourse/NBE2-3-2-team6" target="_blanck">REDBOX: 헌혈증 기부 시스템</a> |
 
 ### ✏️ Study Group
 |PERIOD|Group Name|SUBJECT|LINK|
