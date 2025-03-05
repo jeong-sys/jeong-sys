@@ -73,6 +73,11 @@
       <td><a href="https://github.com/HBNU-SWUNIV/come-capstone24-akdong_developer" target="_blank">백엔드 서비스 프로바이더: 경량형 컨테이너 서비스 개발</a></td>
     </tr>
     <tr>
+      <td>2024.09.14 ~ 2024.11.20</td>
+      <td>MotionWave</td>
+      <td><a href="https://github.com/MotionWave-Capstone/MotionWave.git" target="_blank">모빌리티 데이터를 활용한 유니티 기반의 시승환경 시뮬레이터</td>
+    </tr>
+    <tr>
       <td>2024.12.10 ~ 2025.01.05</td>
       <td>우리의 봄</td>
       <td><a href="https://github.com/prgrms-be-devcourse/NBE2-3-2-team6" target="_blank">REDBOX: 헌혈증 기부 시스템</a></td>
