@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00A3FF&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+YouJeong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00A3FF&center=true&vCenter=true&width=500&lines=Hello+there!+I'm+YouJeong+Heo+😊)](https://git.io/typing-svg)
 
 ## 👩‍💻 **About Me** 
 
@@ -8,8 +8,41 @@
 - 문제를 해결하는 과정에서 큰 보람을 느끼며, 효율적이고 확장 가능한 시스템 구축에 관심을 가지고 있습니다.
 - 또한, 다양한 협업 툴을 활용하여 팀원들과 원활하게 소통하며, 함께 목표를 달성하는 데 기여하고자 합니다.
 
+[![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeong-sys&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 💪 **Skills** 
+### ⚒️ Platforms & Langauages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Golang](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=Goland&logoColor=white)
+</br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
+</br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+
+### ⚒️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+</br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+</br>
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+
+
+## 📬 **Contacts**
+<a href="rosee1234553@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84A8AD?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="https://blog.naver.com/rosee12345/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+
+
 <details>
-  <summary>Activity</summary>
+  <summary><strong>ACTIVITY</strong></summary>  
+  <table>
+
   <table>
     <tr>
       <th>PERIOD</th>
@@ -40,7 +73,7 @@
 </details>
 
 <details>
-  <summary>Project</summary>
+  <summary><strong>PROJECT</strong></summary>
   <table>
     <tr>
       <th>PERIOD</th>
@@ -84,37 +117,4 @@
     </tr>
   </table>
 </details>
-
-<br/>
-
-<div style="display: flex; justify-content: left; align-items: left; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeong-sys&show_icons=true&theme=tokyonight" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeong-sys&layout=compact&theme=tokyonight" >
-</div>
-
-## 💪 **Skills** 
-### ⚒️ Platforms & Langauages
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Golang](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=Goland&logoColor=white)
-</br>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
-</br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
-
-### ⚒️ Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-</br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-</br>
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-
-
-## 📬 **Contacts**
-<a href="rosee1234553@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/> <a href="https://hu-studyrecord.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-84A8AD?style=for-the-badge&logo=Tistory&logoColor=white"/> </a><a href="https://blog.naver.com/rosee12345/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 
